@@ -1,5 +1,11 @@
 {
     "modules": [
-        "dashboard" 
+        "home",
+        "counter",
+        "animations",
+        "http_request",
+        "product_list",
+        "product_detail",
+        "product_photo_detail"
     ]
 }
